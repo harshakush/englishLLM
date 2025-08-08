@@ -1,0 +1,513 @@
+{
+  "grammar_concepts_reference": {
+    "1": {
+      "concept": "Present Simple Tense",
+      "description": "Used for habitual actions, general truths, and permanent situations",
+      "examples": [
+        "I work every day",
+        "The sun rises in the east",
+        "She speaks three languages"
+      ],
+      "usage": "Subject + base verb (add -s/-es for third person singular)"
+    },
+    "2": {
+      "concept": "Present Continuous Tense",
+      "description": "Used for actions happening now or temporary situations",
+      "examples": [
+        "I am working right now",
+        "She is studying for her exam",
+        "They are playing football"
+      ],
+      "usage": "Subject + am/is/are + verb-ing"
+    },
+    "3": {
+      "concept": "Past Simple Tense",
+      "description": "Used for completed actions in the past",
+      "examples": [
+        "I worked yesterday",
+        "She visited Paris last year",
+        "They finished the project"
+      ],
+      "usage": "Subject + past form of verb (regular: verb + -ed, irregular: special forms)"
+    },
+    "4": {
+      "concept": "Past Continuous Tense",
+      "description": "Used for ongoing actions in the past or interrupted actions",
+      "examples": [
+        "I was working when you called",
+        "She was reading at 8 PM",
+        "They were discussing the plan"
+      ],
+      "usage": "Subject + was/were + verb-ing"
+    },
+    "5": {
+      "concept": "Present Perfect Tense",
+      "description": "Used for actions completed at an unspecified time or continuing to present",
+      "examples": [
+        "I have finished my homework",
+        "She has lived here for five years",
+        "They have never been to Japan"
+      ],
+      "usage": "Subject + have/has + past participle"
+    },
+    "6": {
+      "concept": "Present Perfect Continuous",
+      "description": "Used for actions that started in the past and continue to the present",
+      "examples": [
+        "I have been working for three hours",
+        "She has been studying since morning",
+        "They have been waiting for you"
+      ],
+      "usage": "Subject + have/has + been + verb-ing"
+    },
+    "7": {
+      "concept": "Past Perfect Tense",
+      "description": "Used for actions completed before another past action",
+      "examples": [
+        "I had finished before you arrived",
+        "She had already left when I called",
+        "They had completed the task"
+      ],
+      "usage": "Subject + had + past participle"
+    },
+    "8": {
+      "concept": "Future Simple Tense",
+      "description": "Used for future actions, predictions, and spontaneous decisions",
+      "examples": [
+        "I will call you tomorrow",
+        "She will probably be late",
+        "They will help us"
+      ],
+      "usage": "Subject + will + base verb"
+    },
+    "9": {
+      "concept": "Future Continuous Tense",
+      "description": "Used for ongoing actions at a specific time in the future",
+      "examples": [
+        "I will be working at 9 AM",
+        "She will be traveling next week",
+        "They will be discussing the proposal"
+      ],
+      "usage": "Subject + will + be + verb-ing"
+    },
+    "10": {
+      "concept": "Conditional Sentences (First Type)",
+      "description": "Used for real or possible situations in the future",
+      "examples": [
+        "If it rains, I will stay home",
+        "If you study hard, you will pass",
+        "If she comes, we will start"
+      ],
+      "usage": "If + present simple, will + base verb"
+    },
+    "11": {
+      "concept": "Conditional Sentences (Second Type)",
+      "description": "Used for hypothetical or unlikely situations in the present/future",
+      "examples": [
+        "If I were rich, I would travel",
+        "If she had time, she would help",
+        "If they knew, they would tell us"
+      ],
+      "usage": "If + past simple, would + base verb"
+    },
+    "12": {
+      "concept": "Conditional Sentences (Third Type)",
+      "description": "Used for hypothetical situations in the past (impossible to change)",
+      "examples": [
+        "If I had studied, I would have passed",
+        "If she had come, we would have started",
+        "If they had known, they would have helped"
+      ],
+      "usage": "If + past perfect, would have + past participle"
+    },
+    "13": {
+      "concept": "Passive Voice",
+      "description": "Used when the focus is on the action rather than who performs it",
+      "examples": [
+        "The book was written by Shakespeare",
+        "The house is being built",
+        "The project will be completed tomorrow"
+      ],
+      "usage": "Object + be + past participle (+ by + agent)"
+    },
+    "14": {
+      "concept": "Modal Verbs - Can/Could",
+      "description": "Used to express ability, possibility, or permission",
+      "examples": [
+        "I can swim",
+        "Could you help me?",
+        "She could be at home"
+      ],
+      "usage": "Subject + can/could + base verb"
+    },
+    "15": {
+      "concept": "Modal Verbs - Must/Have to",
+      "description": "Used to express necessity, obligation, or strong probability",
+      "examples": [
+        "You must wear a seatbelt",
+        "I have to go now",
+        "She must be tired"
+      ],
+      "usage": "Subject + must/have to + base verb"
+    },
+    "16": {
+      "concept": "Modal Verbs - Should/Ought to",
+      "description": "Used to give advice, express obligation, or probability",
+      "examples": [
+        "You should exercise regularly",
+        "We ought to leave early",
+        "She should be here soon"
+      ],
+      "usage": "Subject + should/ought to + base verb"
+    },
+    "17": {
+      "concept": "Modal Verbs - May/Might",
+      "description": "Used to express possibility, permission, or polite requests",
+      "examples": [
+        "It may rain today",
+        "Might I ask a question?",
+        "She might come later"
+      ],
+      "usage": "Subject + may/might + base verb"
+    },
+    "18": {
+      "concept": "Relative Clauses - Defining",
+      "description": "Essential clauses that define or identify the noun (no commas)",
+      "examples": [
+        "The book that I bought is interesting",
+        "The person who called you is here",
+        "The house which we visited was beautiful"
+      ],
+      "usage": "Noun + who/which/that + clause"
+    },
+    "19": {
+      "concept": "Relative Clauses - Non-defining",
+      "description": "Additional information about the noun (with commas)",
+      "examples": [
+        "My brother, who lives in London, is visiting",
+        "The book, which I finished yesterday, was excellent",
+        "Paris, where I was born, is beautiful"
+      ],
+      "usage": "Noun, + who/which + clause, + main clause continues"
+    },
+    "20": {
+      "concept": "Reported Speech - Statements",
+      "description": "Used to report what someone said without using their exact words",
+      "examples": [
+        "He said that he was tired",
+        "She told me she would come",
+        "They mentioned they had finished"
+      ],
+      "usage": "Reporting verb + that + reported clause (tense changes)"
+    },
+    "21": {
+      "concept": "Reported Speech - Questions",
+      "description": "Used to report questions indirectly",
+      "examples": [
+        "He asked if I was ready",
+        "She wondered where they had gone",
+        "They inquired whether we needed help"
+      ],
+      "usage": "Asked/wondered + if/whether/wh-word + statement order"
+    },
+    "22": {
+      "concept": "Gerunds and Infinitives",
+      "description": "Verb forms used as nouns or after certain verbs",
+      "examples": [
+        "I enjoy reading",
+        "She decided to leave",
+        "Swimming is good exercise"
+      ],
+      "usage": "Gerund: verb-ing as noun; Infinitive: to + base verb"
+    },
+    "23": {
+      "concept": "Articles - Definite (The)",
+      "description": "Used for specific, known, or unique things",
+      "examples": [
+        "The book on the table",
+        "The sun is bright",
+        "The President spoke today"
+      ],
+      "usage": "The + noun (specific/unique/previously mentioned)"
+    },
+    "24": {
+      "concept": "Articles - Indefinite (A/An)",
+      "description": "Used for non-specific, singular countable nouns",
+      "examples": [
+        "A book",
+        "An apple",
+        "A university",
+        "An hour"
+      ],
+      "usage": "A + consonant sound; An + vowel sound"
+    },
+    "25": {
+      "concept": "Comparative and Superlative Adjectives",
+      "description": "Used to compare things or show the highest degree",
+      "examples": [
+        "Bigger than",
+        "The biggest",
+        "More beautiful",
+        "The most beautiful"
+      ],
+      "usage": "Short adj: -er/-est; Long adj: more/most + adjective"
+    },
+    "26": {
+      "concept": "Prepositions of Time",
+      "description": "Used to indicate when something happens",
+      "examples": [
+        "At 3 o'clock",
+        "In January",
+        "On Monday",
+        "During the meeting"
+      ],
+      "usage": "At (specific times), In (months/years), On (days/dates)"
+    },
+    "27": {
+      "concept": "Prepositions of Place",
+      "description": "Used to indicate location or position",
+      "examples": [
+        "In the room",
+        "On the table",
+        "At the station",
+        "Under the bridge"
+      ],
+      "usage": "In (enclosed spaces), On (surfaces), At (specific points)"
+    },
+    "28": {
+      "concept": "Question Formation - Wh-Questions",
+      "description": "Questions asking for specific information",
+      "examples": [
+        "What are you doing?",
+        "Where did you go?",
+        "When will you arrive?"
+      ],
+      "usage": "Wh-word + auxiliary + subject + main verb"
+    },
+    "29": {
+      "concept": "Question Formation - Yes/No Questions",
+      "description": "Questions with yes or no answers",
+      "examples": [
+        "Are you ready?",
+        "Did you finish?",
+        "Will you come?"
+      ],
+      "usage": "Auxiliary + subject + main verb"
+    },
+    "30": {
+      "concept": "Tag Questions",
+      "description": "Short questions added to statements for confirmation",
+      "examples": [
+        "You're coming, aren't you?",
+        "She didn't call, did she?",
+        "They will help, won't they?"
+      ],
+      "usage": "Positive statement + negative tag; Negative statement + positive tag"
+    },
+    "31": {
+      "concept": "Countable and Uncountable Nouns",
+      "description": "Nouns that can or cannot be counted individually",
+      "examples": [
+        "Books (countable)",
+        "Water (uncountable)",
+        "Many books",
+        "Much water"
+      ],
+      "usage": "Countable: a/an, many, few; Uncountable: much, little, some"
+    },
+    "32": {
+      "concept": "Quantifiers - Some/Any",
+      "description": "Used to indicate quantity without being specific",
+      "examples": [
+        "Some books",
+        "Any questions?",
+        "I don't have any money"
+      ],
+      "usage": "Some (positive statements), Any (questions/negatives)"
+    },
+    "33": {
+      "concept": "Quantifiers - Much/Many/A lot of",
+      "description": "Used to express large quantities",
+      "examples": [
+        "Many people",
+        "Much time",
+        "A lot of work"
+      ],
+      "usage": "Many (countable), Much (uncountable), A lot of (both)"
+    },
+    "34": {
+      "concept": "Quantifiers - Few/Little",
+      "description": "Used to express small quantities",
+      "examples": [
+        "Few people came",
+        "Little time left",
+        "A few books",
+        "A little water"
+      ],
+      "usage": "Few/little (negative meaning), A few/a little (positive meaning)"
+    },
+    "35": {
+      "concept": "Adverbs of Frequency",
+      "description": "Used to show how often something happens",
+      "examples": [
+        "Always",
+        "Usually",
+        "Sometimes",
+        "Never",
+        "I always brush my teeth"
+      ],
+      "usage": "Before main verb, after 'be' verb"
+    },
+    "36": {
+      "concept": "Adverbs of Manner",
+      "description": "Used to describe how something is done",
+      "examples": [
+        "Quickly",
+        "Carefully",
+        "Beautifully",
+        "She sings beautifully"
+      ],
+      "usage": "Usually adjective + -ly, placed after verb/object"
+    },
+    "37": {
+      "concept": "Phrasal Verbs - Separable",
+      "description": "Verb + particle combinations where object can separate them",
+      "examples": [
+        "Turn on the light / Turn the light on",
+        "Pick up the book / Pick the book up"
+      ],
+      "usage": "Verb + particle + object OR Verb + object + particle"
+    },
+    "38": {
+      "concept": "Phrasal Verbs - Inseparable",
+      "description": "Verb + particle combinations that cannot be separated",
+      "examples": [
+        "Look after the children",
+        "Run into an old friend",
+        "Get over the illness"
+      ],
+      "usage": "Verb + particle + object (fixed order)"
+    },
+    "39": {
+      "concept": "Subject-Verb Agreement",
+      "description": "Subjects and verbs must agree in number (singular/plural)",
+      "examples": [
+        "The cat runs",
+        "The cats run",
+        "Everyone is here",
+        "The team plays well"
+      ],
+      "usage": "Singular subject + singular verb; Plural subject + plural verb"
+    },
+    "40": {
+      "concept": "Parallel Structure",
+      "description": "Using the same grammatical form for items in a series",
+      "examples": [
+        "I like reading, writing, and swimming",
+        "She is smart, kind, and funny"
+      ],
+      "usage": "Keep same form: all gerunds, all adjectives, all infinitives, etc."
+    },
+    "41": {
+      "concept": "Conjunctions - Coordinating",
+      "description": "Words that connect equal grammatical elements",
+      "examples": [
+        "And",
+        "But",
+        "Or",
+        "So",
+        "I studied hard, so I passed the exam"
+      ],
+      "usage": "Independent clause + coordinating conjunction + independent clause"
+    },
+    "42": {
+      "concept": "Conjunctions - Subordinating",
+      "description": "Words that connect dependent clauses to independent clauses",
+      "examples": [
+        "Because",
+        "Although",
+        "When",
+        "If",
+        "I stayed home because it was raining"
+      ],
+      "usage": "Subordinating conjunction + dependent clause + independent clause"
+    },
+    "43": {
+      "concept": "Apostrophes - Possession",
+      "description": "Used to show ownership or belonging",
+      "examples": [
+        "John's book",
+        "The students' papers",
+        "Children's toys"
+      ],
+      "usage": "Singular: noun + 's; Plural ending in s: noun + '; Irregular plural: noun + 's"
+    },
+    "44": {
+      "concept": "Apostrophes - Contractions",
+      "description": "Used to combine two words by omitting letters",
+      "examples": [
+        "Don't (do not)",
+        "Can't (cannot)",
+        "I'm (I am)",
+        "Won't (will not)"
+      ],
+      "usage": "Replace omitted letters with apostrophe"
+    },
+    "45": {
+      "concept": "Comma Usage - Lists",
+      "description": "Used to separate items in a series",
+      "examples": [
+        "Red, blue, and green",
+        "I bought apples, oranges, and bananas"
+      ],
+      "usage": "Item, item, and item (Oxford comma optional but recommended)"
+    },
+    "46": {
+      "concept": "Comma Usage - Complex Sentences",
+      "description": "Used to separate clauses in complex sentences",
+      "examples": [
+        "When I arrived, everyone was waiting",
+        "I was tired, so I went to bed"
+      ],
+      "usage": "Dependent clause first: comma after; Independent clauses: comma before conjunction"
+    },
+    "47": {
+      "concept": "Capitalization Rules",
+      "description": "Rules for when to use capital letters",
+      "examples": [
+        "Proper nouns: London, John",
+        "Beginning of sentences",
+        "Days: Monday",
+        "Months: January"
+      ],
+      "usage": "First word of sentence, proper nouns, days, months, titles"
+    },
+    "48": {
+      "concept": "Pronoun Reference",
+      "description": "Pronouns must clearly refer to specific nouns",
+      "examples": [
+        "John lost his keys",
+        "The book is interesting. It has great characters"
+      ],
+      "usage": "Pronoun must have clear antecedent; avoid ambiguous references"
+    },
+    "49": {
+      "concept": "Dangling Modifiers",
+      "description": "Modifying phrases that don't clearly modify the intended word",
+      "examples": [
+        "Wrong: Walking to school, the rain started",
+        "Right: Walking to school, I got caught in the rain"
+      ],
+      "usage": "Modifier should be placed next to the word it modifies"
+    },
+    "50": {
+      "concept": "Run-on Sentences",
+      "description": "Incorrectly joined independent clauses that should be separated",
+      "examples": [
+        "Wrong: I went to the store I bought milk",
+        "Right: I went to the store, and I bought milk"
+      ],
+      "usage": "Use periods, semicolons, or coordinating conjunctions to separate independent clauses"
+    }
+  }
+}
